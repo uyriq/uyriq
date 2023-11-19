@@ -1,5 +1,7 @@
 name: generate animation
 # story https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+permissions: 
+  contents: write  
 
 on:
   # run automatically every 12 hours
@@ -11,16 +13,11 @@ on:
   
   # run on every push on the master branch
   push:
-    branches:
-    - master
-    - main
+    branches: ["main", "master"]
 jobs:
   generate:
-    permissions: 
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
