@@ -16,7 +16,8 @@ This is a ✨ special ✨ repository because this `README.md` appears on my GitH
 </picture>
 </p>
 ###
-<p align="center" width="100%">
+<br clear="both">
+<p align="center" width="99%">
   <img src="https://github-readme-stats.vercel.app/api?username=uyriq&show_icons=true&theme=dark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uyriq&theme=dark"/> 
 </p>
