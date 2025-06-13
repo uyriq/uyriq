@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @uyriq
-- I am interested in learning and expanding my knowledge. Currently, I’m learning React. 👀🌱
+- I'm a tech-savvy media wrangler with a passion for bringing order to digital chaos. I enjoy using tools like Docker to organize my large media archive and working with AI voice systems to turn text into lifelike speech in many languages. I focus on powerful, efficient solutions — even published my own EXE to Winget for easy access.
 
+In short, I’m a DIY digital curator with a love for automation and a creative streak that bridges languages and technologies.
 <hr>
 
 <p align="center" width="100%">
@@ -12,7 +13,7 @@
 </p>
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=uyriq)
+ 
 </p>
 
 <p align="center">
