@@ -6,7 +6,7 @@ permissions:
 on:
   # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "5 3 * * *" # Runs every day at 03:05 UTC 
   
   # allows to manually run the job at any time
   workflow_dispatch:
